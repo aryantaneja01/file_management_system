@@ -1,7 +1,5 @@
 # Cloud-Based File Management Application
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-
 This Spring Boot application provides a cloud-based file management solution with the following key functionalities:
 
 1. **File Operations:** It offers RESTful web services for seamless uploading, downloading, and deletion of files to and from AWS S3 storage.
@@ -68,12 +66,4 @@ Monitoring
 
 Monitoring and error tracking are integrated with AWS CloudWatch. You can access logs and metrics from your AWS CloudWatch console to identify and troubleshoot issues.
 
-Contributing
 
-Contributions are welcome! Please submit any bug reports, feature requests, or pull requests to the GitHub repository.
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Just like before, replace the placeholders like `yourusername`, `your_access_key`, `your_secret_key`, `your_bucket_name`, and `your_namespace` with the actual values specific to your application and AWS environment. 
