@@ -15,8 +15,6 @@ This Spring Boot application provides a cloud-based file management solution wit
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [Monitoring](#monitoring)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
