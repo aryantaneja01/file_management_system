@@ -1,0 +1,17 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIAWR2XH6SRXREQQUEB
+      secret-key: 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
+    region:
+      static: ap-south-1
+    stack:
+      auto: false
+ 
+application:   
+  bucket:
+    name: java.aws.project
+    
+server:
+  port: 7070
+      
